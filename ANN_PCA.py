@@ -2,6 +2,7 @@
 """ Principal Component Analysis using the Artificial Neural Network Approach"""
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 import numpy as np
+import pandas as pd
 
 class ANN_PCA(object):
   def __init__(self, inputs, outputs):
